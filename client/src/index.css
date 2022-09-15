@@ -1,0 +1,20 @@
+:root {
+  --color-primary: #1d6d86;
+  --color-time: #848484;
+  --color-danger: #ff0000;
+  --color-success: #48ff00;
+
+  --font-family-text: 'Roboto';
+
+  --fontSize-text-logo: calc(25px + 0.390625vw);
+  --fontSize-text-h1: calc(45px + 0.390625vw);
+  --fontSize-text-titlep: calc(18px + 0.390625vw);
+  --fontSize-text-p: calc(12px + 0.390625vw);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  max-width: 1440px;
+  margin: 0 auto;
+}
